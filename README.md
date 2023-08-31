@@ -25,12 +25,12 @@ fn expert
     [chars]
     [rev]
     [collect]
-[to_string]:https://doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string
-[chars]:https://doc.rust-lang.org/std/primitive.str.html#method.chars
-[push]:https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html#method.push
-[clone]:https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html#method.push
-[reverse]:https://doc.rust-lang.org/std/cmp/struct.Reverse.html
-[iter]:https://doc.rust-lang.org/std/primitive.slice.html#method.iter
-[enumerate]:https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.enumerate
-[rev]:https://doc.rust-lang.org/std/iter/struct.Rev.html
-[collect]:https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.collect
+[to_string]: https://doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string
+[chars]: https://doc.rust-lang.org/std/primitive.str.html#method.chars
+[push]: https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html#method.push
+[clone]: https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html#method.push
+[reverse]: https://doc.rust-lang.org/std/cmp/struct.Reverse.html
+[iter]: https://doc.rust-lang.org/std/primitive.slice.html#method.iter
+[enumerate]: https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.enumerate
+[rev]: https://doc.rust-lang.org/std/iter/struct.Rev.html
+[collect]: https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.collect
