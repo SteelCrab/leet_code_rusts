@@ -14,6 +14,7 @@ PalindromeNumber
 #PalindromeNumber fun 
 fn is_palindrome
     [to_string]
+    [to_string]: https://doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string
     [chars]
     [push]
     [clone]
@@ -25,7 +26,7 @@ fn expert
     [chars]
     [rev]
     [collect]
-[to_string]: https://doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string
+
 [chars]: https://doc.rust-lang.org/std/primitive.str.html#method.chars
 [push]: https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html#method.push
 [clone]: https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html#method.push
