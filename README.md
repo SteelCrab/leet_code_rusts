@@ -3,18 +3,18 @@
 [![Rust Community](https://img.shields.io/badge/Rust_Community%20-Join_us-brightgreen?style=plastic&logo=rust)](https://www.rust-lang.org/community)
 
 
-# leet_code_rusts
+## leet_code_rusts
 solving the letcode problem
 
-# problems
+## problems
 addsun
 frogJump
 PalindromeNumber
 
-#PalindromeNumber fun 
+## PalindromeNumber fun 
 fn is_palindrome
-    [to_string]
-    [to_string]: https://doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string
+    [to_string1]
+    [to_string1]: https://doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string
     [chars]
     [push]
     [clone]
