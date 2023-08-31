@@ -7,26 +7,20 @@
 solving the letcode problem
 
 ## problems
-addsun
-frogJump
-PalindromeNumber
+`addsun`
 
-## PalindromeNumber fun 
-fn is_palindrome
-    [to_string1]
-    [to_string1]: https://doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string
-    [chars]
-    [push]
-    [clone]
-    [reverse]
-    [iter]
-    [enumerate]
-fn expert
-    [to_string]
-    [chars]
-    [rev]
-    [collect]
+`frogJump`
 
+`PalindromeNumber`
+
+ ## PalindromeNumber functions 
+ * `fn is_palindrome`
+        [to_string],[chars],[push],[clone],[reverse],[iter],[enumerate]
+   
+* `fn expert`
+        [to_string] [chars] [rev] [collect]
+    
+[to_string]: https://doc.rust-lang.org/std/string/trait.ToString.html#tymethod.to_string
 [chars]: https://doc.rust-lang.org/std/primitive.str.html#method.chars
 [push]: https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html#method.push
 [clone]: https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html#method.push
