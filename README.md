@@ -30,6 +30,5 @@ solving the letcode problem
 [rev]: https://doc.rust-lang.org/std/iter/struct.Rev.html
 [collect]: https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.collect
 
-''' c
-asdfsaf
-''''
+
+#convert_an_array_into_a_2d_array_with_conditions
