@@ -1,0 +1,1 @@
+/Users/yong/leetRust/Minimum_Time_to_Make_Rope_Colorful/target/debug/Minimum_Time_to_Make_Rope_Colorful: /Users/yong/leetRust/Minimum_Time_to_Make_Rope_Colorful/src/main.rs
